@@ -1,0 +1,11 @@
+print("==========================================")
+print("************* Justice League *************")
+print("==========================================")
+
+username = str(input("Masukkan username anda: "))
+print("===== Welcome =====")
+menu1 : input("1. Tambah Anggota Justice League")
+menu2 : input("2. Hapus Anggota Justice League")
+menu3 : input("3. Tampilkan Anggota Justice League")
+menu4 : input("4. Exit")
+pilihan = int(input("Masukkan pilihan anda : "))
